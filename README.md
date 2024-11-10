@@ -1,5 +1,5 @@
-<div align="left>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&width=435&lines=Hack+the+planet" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&width=435&lines=Hack The Planet!" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TetsuroAndo&count_private=true&theme=transparent"/>
